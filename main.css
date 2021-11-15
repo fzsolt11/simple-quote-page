@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+body {
+  background-image: url("freedom.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+}
+.textbox1 {
+  margin: 10% auto 0 auto;
+  padding-bottom: 7%;
+  font-family: /*"Space Grotesk", sans-serif,*/ "Architects Daughter", cursive;
+  font-size: 35px;
+  text-align: center;
+  font-variant: small-caps;
+}
+.textbox2 {
+  font-family: /*"Space Grotesk", sans-serif,*/ "Architects Daughter", cursive;;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+  
+}
